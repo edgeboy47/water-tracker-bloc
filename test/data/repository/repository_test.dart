@@ -31,7 +31,6 @@ void main() {
     testKeysSubset = fixtures.testKeysSubset;
     testValuesSubset = fixtures.testValuesSubset;
     sumOfTestValuesSubset = fixtures.sumOfTestValuesSubset;
-
   });
 
   group('Repository functions', () {
